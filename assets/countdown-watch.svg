@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+  <title id="title">Countdown Watch</title>
+  <desc id="desc">A black circular watch with a golden rim and a countdown display.</desc>
+  <rect width="720" height="360" rx="18" fill="#172733"/>
+  <circle cx="180" cy="180" r="133" fill="#000" stroke="#f6c94a" stroke-width="6"/>
+  <circle cx="180" cy="180" r="122" fill="none" stroke="#806c2d" stroke-width="2"/>
+  <g stroke="#d6b84f" stroke-linecap="round">
+    <path d="M180 58v13M180 289v13M58 180h13M289 180h13" stroke-width="4"/>
+    <path d="m119 73 6 11M241 276l6 11M73 241l11-6M276 119l11-6" stroke-width="3"/>
+    <path d="m73 119 11 6M276 241l11 6M119 287l6-11M241 84l6-11" stroke-width="3"/>
+  </g>
+  <path d="M180 180 137 151" stroke="#f5d36b" stroke-width="5" stroke-linecap="round"/>
+  <path d="M180 180 180 103" stroke="#f5d36b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M180 180 221 127" stroke="#f0a63a" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="180" cy="180" r="6" fill="#f5d36b"/>
+  <g fill="#fff" font-family="Consolas, monospace" font-weight="700" text-anchor="middle">
+    <text x="136" y="225" font-size="18">03</text>
+    <text x="165" y="225" font-size="18">10</text>
+    <text x="202" y="225" font-size="18">45</text>
+    <text x="235" y="225" font-size="18">32</text>
+  </g>
+  <text x="180" y="246" fill="#aab5bd" font-family="Arial, sans-serif" font-size="8" font-weight="700" text-anchor="middle">DAYS   HOURS   MINUTES   SECONDS</text>
+  <g transform="translate(390 104)">
+    <text fill="#f6c94a" font-family="Arial, sans-serif" font-size="32" font-weight="700">Countdown Watch</text>
+    <text y="48" fill="#dce4e8" font-family="Arial, sans-serif" font-size="19">A simple desktop timer for Windows.</text>
+    <text y="88" fill="#aab5bd" font-family="Arial, sans-serif" font-size="16">Add events. Keep the watch visible.</text>
+  </g>
+</svg>
